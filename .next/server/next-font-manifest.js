@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/neha/unkey-view/app/layout\":[\"static/media/463dafcda517f24f-s.p.woff\",\"static/media/4473ecc91f70f139-s.p.woff\",\"static/media/e11418ac562b8ac1-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
